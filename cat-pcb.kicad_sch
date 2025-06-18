@@ -494,7 +494,7 @@
 		(at 162.56 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4326ea9d-8d05-415c-aace-9253c0088faa")
+		(uuid "4ab12c0e-439c-4e76-9ea6-f4647f686ce2")
 	)
 	(junction
 		(at 162.56 107.95)
@@ -531,6 +531,16 @@
 			(type default)
 		)
 		(uuid "3fb1a94b-4db7-487e-b184-1f8f885e5003")
+	)
+	(wire
+		(pts
+			(xy 162.56 86.36) (xy 179.07 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c6e058f-dba6-474f-b089-708912273f67")
 	)
 	(wire
 		(pts
@@ -571,16 +581,6 @@
 			(type default)
 		)
 		(uuid "95d30bd3-4b8a-4595-a4b2-e57f01b9a269")
-	)
-	(wire
-		(pts
-			(xy 162.56 86.36) (xy 179.07 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e51b773a-7d02-44c2-88aa-e56c3dd8f8c8")
 	)
 	(symbol
 		(lib_id "Device:LED")
